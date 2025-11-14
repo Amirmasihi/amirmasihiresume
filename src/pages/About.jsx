@@ -22,7 +22,7 @@ const About = () => {
           me to turn an idea from concept into reality.
         </p>
         <h1 className="text-3xl">Skill Me :</h1>
-        <div className="flex justify-center gap-3">
+        <div className="flex justify-center gap-3 flex-wrap">
           <IoLogoHtml5
             size={62}
             className="hover:scale-125 transition-transform duration-300 "

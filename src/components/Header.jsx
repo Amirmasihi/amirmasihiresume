@@ -7,7 +7,7 @@ const Header = () => {
   const [open ,setOpen] = useState(false)
   return (
     <>
-      <header className="flex justify-between items-center w-full h-12 py-16 px-16">
+      <header className="flex justify-between items-center w-full h-12 py-16 px-8">
         <div className="">
           <img src="/images/logo.png" alt="logo" className="w-32 h-32" />
         </div>

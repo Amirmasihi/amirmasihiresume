@@ -9,14 +9,14 @@ const MainContent = () => {
       <section className="flex flex-col md:flex-row justify-between items-center m-16 gap-8 my-32 mx-12 align-middle">
         <div className="">
           <img
-            src="/images/d3da8a1e517ee7344c8efb79fcb3816c.png"
+            src="/images/stickman.png"
             alt=""
             className="w-96 h-96 object-cover"
           />
         </div>
         <div className="flex flex-col gap-4  ">
           <h1 className="text-4xl ">
-            Hi , Amir <span className="text-sky-500 text-3xl">Masihi</span>
+            im Amir <span className="text-sky-500 text-3xl">Masihi</span>
           </h1>
           <h2 className="text-xl">Front end developer</h2>
           <p className="w-96">
